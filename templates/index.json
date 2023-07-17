@@ -1,1 +1,264 @@
-{"sections":{"4433f540-ea7d-4c66-b8b4-85384b0114c4":{"type":"slideshow","disabled":true,"blocks":{"template--18532333191442__4433f540-ea7d-4c66-b8b4-85384b0114c4-1681052123220ba3ec-0":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/jayden-brand--UQmhKF3kLE-unsplash.jpg","heading":"Welcome to <em><strong>THE PRECIOUS PEARLS<\/strong><\/em>","heading_size":"h1","subheading":"","button_label":"SHOP NOW","link":"#","button_style_secondary":true,"box_align":"middle-left","show_text_box":false,"text_alignment":"left","image_overlay_opacity":40,"color_scheme":"background-1","text_alignment_mobile":"center"}},"template--18532333191442__4433f540-ea7d-4c66-b8b4-85384b0114c4-1681052123220ba3ec-1":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/stacked-bracelets.jpg","heading":"","heading_size":"h1","subheading":"","button_label":"","link":"","button_style_secondary":false,"box_align":"middle-left","show_text_box":false,"text_alignment":"left","image_overlay_opacity":20,"color_scheme":"background-1","text_alignment_mobile":"center"}}},"block_order":["template--18532333191442__4433f540-ea7d-4c66-b8b4-85384b0114c4-1681052123220ba3ec-0","template--18532333191442__4433f540-ea7d-4c66-b8b4-85384b0114c4-1681052123220ba3ec-1"],"settings":{"layout":"full_bleed","slide_height":"small","slider_visual":"numbers","auto_rotate":true,"change_slides_speed":5,"image_behavior":"ambient","show_text_below":true,"accessibility_info":"Slideshow about our brand"}},"3a8bf94b-bb4e-4908-a80c-8a8e69cc69e1":{"type":"slideshow","blocks":{"db9376fe-ee28-47a6-8071-e26a2d0ff83f":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/Banner04-new_1512x_4421d228-b183-4a77-b238-f637de206cac.webp","heading":"","heading_size":"h1","subheading":"","button_label":"","link":"","button_style_secondary":true,"box_align":"middle-left","show_text_box":false,"text_alignment":"left","image_overlay_opacity":0,"color_scheme":"background-1","text_alignment_mobile":"center"}},"1323c8d3-129c-49bd-80a4-0c6fa1438329":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/Banner02-new_1512x_9cb41b07-e5e1-4bfc-9401-bb75f9ec7a12.webp","heading":"","heading_size":"h1","subheading":"","button_label":"","link":"","button_style_secondary":false,"box_align":"middle-left","show_text_box":false,"text_alignment":"left","image_overlay_opacity":20,"color_scheme":"background-1","text_alignment_mobile":"center"}},"5ebc95da-b9c8-4581-bc87-9b2964eefebb":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/Banner01-New_1512x_93b12a32-8670-480e-8881-96f3515f3823.webp","heading":"","heading_size":"h1","subheading":"","button_label":"","link":"","button_style_secondary":false,"box_align":"middle-center","show_text_box":false,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"background-1","text_alignment_mobile":"center"}}},"block_order":["db9376fe-ee28-47a6-8071-e26a2d0ff83f","1323c8d3-129c-49bd-80a4-0c6fa1438329","5ebc95da-b9c8-4581-bc87-9b2964eefebb"],"custom_css":["{background-color: #000; color: #fff;}"],"settings":{"layout":"full_bleed","slide_height":"adapt_image","slider_visual":"dots","auto_rotate":false,"change_slides_speed":3,"image_behavior":"none","show_text_below":true,"accessibility_info":"Slideshow about our brand"}},"156d3e1b-f23a-4475-9741-04da001df1b2":{"type":"collection-list","blocks":{"template--18532333191442__156d3e1b-f23a-4475-9741-04da001df1b2-16810766350b9b947e-0":{"type":"featured_collection","settings":{"collection":"bangles"}},"template--18532333191442__156d3e1b-f23a-4475-9741-04da001df1b2-16810766350b9b947e-1":{"type":"featured_collection","settings":{"collection":"bracelet"}},"template--18532333191442__156d3e1b-f23a-4475-9741-04da001df1b2-16810766350b9b947e-2":{"type":"featured_collection","settings":{"collection":"mala"}}},"block_order":["template--18532333191442__156d3e1b-f23a-4475-9741-04da001df1b2-16810766350b9b947e-0","template--18532333191442__156d3e1b-f23a-4475-9741-04da001df1b2-16810766350b9b947e-1","template--18532333191442__156d3e1b-f23a-4475-9741-04da001df1b2-16810766350b9b947e-2"],"custom_css":[".card--standard > .card__content {position: absolute; bottom: 20px; text-align: center;}",".full-unstyled-link {background-color: #000; padding: 10px 30px;}"],"settings":{"title":"<em><strong>Jewellery<\/strong><\/em>","heading_size":"h1","image_ratio":"adapt","columns_desktop":3,"color_scheme":"accent-1","show_view_all":false,"columns_mobile":"1","swipe_on_mobile":true,"padding_top":36,"padding_bottom":8}},"e77ac9f7-2f15-458f-a6c1-a5030c67e254":{"type":"collection-list","blocks":{"24f6860f-bdac-4cc8-9eba-c184e065e88c":{"type":"featured_collection","settings":{"collection":"earrings"}},"ad3459ee-beb3-44c3-aa8c-e82168c534b3":{"type":"featured_collection","settings":{"collection":"necklace"}},"60041b37-2ae5-4670-89b4-d0cabafc045f":{"type":"featured_collection","settings":{"collection":"rings"}}},"block_order":["24f6860f-bdac-4cc8-9eba-c184e065e88c","ad3459ee-beb3-44c3-aa8c-e82168c534b3","60041b37-2ae5-4670-89b4-d0cabafc045f"],"custom_css":[".card--standard > .card__content {position: absolute; bottom: 20px; text-align: center;}",".full-unstyled-link {background-color: #000; padding: 10px 30px;}"],"settings":{"title":"","heading_size":"h1","image_ratio":"adapt","columns_desktop":3,"color_scheme":"accent-1","show_view_all":false,"columns_mobile":"1","swipe_on_mobile":true,"padding_top":0,"padding_bottom":36}},"featured_collection":{"type":"featured-collection","custom_css":[".full-unstyled-link {padding: 15px 0 0 0;}",".title-wrapper--no-top-margin > .title {text-align: center;}"],"settings":{"title":"<em><strong>CLUTCH<\/strong><\/em>","heading_size":"h1","description":"","show_description":false,"description_style":"body","collection":"all","products_to_show":8,"columns_desktop":4,"full_width":false,"show_view_all":true,"view_all_style":"solid","enable_desktop_slider":false,"color_scheme":"accent-1","image_ratio":"adapt","show_secondary_image":true,"show_vendor":false,"show_rating":false,"enable_quick_add":false,"columns_mobile":"2","swipe_on_mobile":false,"padding_top":36,"padding_bottom":36}}},"order":["4433f540-ea7d-4c66-b8b4-85384b0114c4","3a8bf94b-bb4e-4908-a80c-8a8e69cc69e1","156d3e1b-f23a-4475-9741-04da001df1b2","e77ac9f7-2f15-458f-a6c1-a5030c67e254","featured_collection"]}
+{
+  "sections": {
+    "4433f540-ea7d-4c66-b8b4-85384b0114c4": {
+      "type": "slideshow",
+      "disabled": true,
+      "blocks": {
+        "template--18532333191442__4433f540-ea7d-4c66-b8b4-85384b0114c4-1681052123220ba3ec-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/jayden-brand--UQmhKF3kLE-unsplash.jpg",
+            "heading": "Welcome to <em><strong>THE PRECIOUS PEARLS<\/strong><\/em>",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "SHOP NOW",
+            "link": "#",
+            "button_style_secondary": true,
+            "box_align": "middle-left",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "image_overlay_opacity": 40,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "template--18532333191442__4433f540-ea7d-4c66-b8b4-85384b0114c4-1681052123220ba3ec-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/stacked-bracelets.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-left",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "image_overlay_opacity": 20,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--18532333191442__4433f540-ea7d-4c66-b8b4-85384b0114c4-1681052123220ba3ec-0",
+        "template--18532333191442__4433f540-ea7d-4c66-b8b4-85384b0114c4-1681052123220ba3ec-1"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "small",
+        "slider_visual": "numbers",
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "image_behavior": "ambient",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "3a8bf94b-bb4e-4908-a80c-8a8e69cc69e1": {
+      "type": "slideshow",
+      "blocks": {
+        "db9376fe-ee28-47a6-8071-e26a2d0ff83f": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Banner04-new_1512x_4421d228-b183-4a77-b238-f637de206cac.webp",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": true,
+            "box_align": "middle-left",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "1323c8d3-129c-49bd-80a4-0c6fa1438329": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Banner02-new_1512x_9cb41b07-e5e1-4bfc-9401-bb75f9ec7a12.webp",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-left",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "image_overlay_opacity": 20,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "5ebc95da-b9c8-4581-bc87-9b2964eefebb": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Banner01-New_1512x_93b12a32-8670-480e-8881-96f3515f3823.webp",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "db9376fe-ee28-47a6-8071-e26a2d0ff83f",
+        "1323c8d3-129c-49bd-80a4-0c6fa1438329",
+        "5ebc95da-b9c8-4581-bc87-9b2964eefebb"
+      ],
+      "custom_css": [
+        "{background-color: #000; color: #fff;}"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "dots",
+        "auto_rotate": false,
+        "change_slides_speed": 3,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "156d3e1b-f23a-4475-9741-04da001df1b2": {
+      "type": "collection-list",
+      "blocks": {
+        "template--18532333191442__156d3e1b-f23a-4475-9741-04da001df1b2-16810766350b9b947e-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bangles"
+          }
+        },
+        "template--18532333191442__156d3e1b-f23a-4475-9741-04da001df1b2-16810766350b9b947e-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bracelet"
+          }
+        },
+        "template--18532333191442__156d3e1b-f23a-4475-9741-04da001df1b2-16810766350b9b947e-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "mala"
+          }
+        }
+      },
+      "block_order": [
+        "template--18532333191442__156d3e1b-f23a-4475-9741-04da001df1b2-16810766350b9b947e-0",
+        "template--18532333191442__156d3e1b-f23a-4475-9741-04da001df1b2-16810766350b9b947e-1",
+        "template--18532333191442__156d3e1b-f23a-4475-9741-04da001df1b2-16810766350b9b947e-2"
+      ],
+      "custom_css": [
+        ".card--standard > .card__content {position: absolute; bottom: 20px; text-align: center;}",
+        ".full-unstyled-link {background-color: #000; padding: 10px 30px;}"
+      ],
+      "settings": {
+        "title": "<em><strong>Categories<\/strong><\/em>",
+        "heading_size": "h1",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "color_scheme": "accent-1",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 8
+      }
+    },
+    "e77ac9f7-2f15-458f-a6c1-a5030c67e254": {
+      "type": "collection-list",
+      "blocks": {
+        "24f6860f-bdac-4cc8-9eba-c184e065e88c": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "earrings"
+          }
+        },
+        "ad3459ee-beb3-44c3-aa8c-e82168c534b3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "necklace"
+          }
+        },
+        "60041b37-2ae5-4670-89b4-d0cabafc045f": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "rings"
+          }
+        }
+      },
+      "block_order": [
+        "24f6860f-bdac-4cc8-9eba-c184e065e88c",
+        "ad3459ee-beb3-44c3-aa8c-e82168c534b3",
+        "60041b37-2ae5-4670-89b4-d0cabafc045f"
+      ],
+      "custom_css": [
+        ".card--standard > .card__content {position: absolute; bottom: 20px; text-align: center;}",
+        ".full-unstyled-link {background-color: #000; padding: 10px 30px;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "color_scheme": "accent-1",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "custom_css": [
+        ".full-unstyled-link {padding: 15px 0 0 0;}",
+        ".title-wrapper--no-top-margin > .title {text-align: center;}"
+      ],
+      "settings": {
+        "title": "<em><strong>CLUTCH<\/strong><\/em>",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "all",
+        "products_to_show": 8,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "accent-1",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "4433f540-ea7d-4c66-b8b4-85384b0114c4",
+    "3a8bf94b-bb4e-4908-a80c-8a8e69cc69e1",
+    "156d3e1b-f23a-4475-9741-04da001df1b2",
+    "e77ac9f7-2f15-458f-a6c1-a5030c67e254",
+    "featured_collection"
+  ]
+}
