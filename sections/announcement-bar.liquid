@@ -6,7 +6,7 @@
   {{ block.shopify_attributes }}
 >
   {%- if section.blocks.size == 1 -%}
-    <div class="announcement-bar" role="region" aria-label="{{ 'sections.header.announcement' | t }}" {{ block.shopify_attributes }}>
+    <div class="announcement-bar github-announcement" role="region" aria-label="{{ 'sections.header.announcement' | t }}" {{ block.shopify_attributes }}>
       {%- if section.blocks.first.settings.text != blank -%}
         {%- if section.blocks.first.settings.link != blank -%}
           <a href="{{ section.blocks.first.settings.link }}" class="announcement-bar__link link link--text focus-inset animate-arrow">
